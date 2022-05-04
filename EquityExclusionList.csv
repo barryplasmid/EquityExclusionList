@@ -1,0 +1,499 @@
+Symbol,Index,Confidence,Company Name,Compnay Description,Category,Sub-category,Country
+ABV,,100,,,Alcohol,,
+IGT,,100,,,Gambling,,
+REMYY,,100,8. Rémy Cointreau SA,,Alcohol,,
+ATK,,100,". Olin manufactures and sells ammunition and powder, while Alliant Technologies manufacturers and sells powder, ammunition and reloading equipment.",,Firearms and Weapons,,
+BF,,100, owns Finlandia and Jack Daniels. Diageo ,,Alcohol,,
+BF.A,,100,3. Brown Forman Corporation ,,Alcohol,,
+BF.B,SP500,100,3. Brown Forman Corporation ,,Alcohol,,
+BTI,,100,British American Tobacco p.l.c. is home to Lucky Strike and Dunhill. Imperial Tobacco ,,Tobacco,,
+BUD,,100,Anheuser-Busch InBev SA/NV,,Alcohol,,
+BYD,,100,Boyd Gaming Corporation,,Gambling,,
+CNTY,,100,Century Casinos Inc. (CNTY),,Gambling,,
+DEO,,100,"Diageo owns and distributes such well-known brands as Johnnie Walker, Smirnoff Vodka, Guinness and Captain Morgan",,Alcohol,,
+FO,,100, is known for Jim Beam and is the American distributor of Absolut Vodka. Brown-Forman ,,Alcohol,,
+GDEN,,100,Golden Entertainment Inc. (GDEN),,Gambling,,
+ISLE,,100,,,Gambling,,
+ITYBY,,100, is the largest seller of cigars and fine-cut tobaccos. Altria ,,Tobacco,,
+KAVL,,100,"Kaival Brands Innovations Group, Inc.",,Tobacco,,
+LVS,SP500,100,Las Vegas Sands Corp.,,"Gambling, Casino, etc.",,
+MC,,100,5. LVMH Moet Hennessy Louis Vuitton SE ,,Alcohol,,
+MGM,SP500,100,MGM Resorts International,,Gambling,,
+MO,SP500,100,"Altria Group, Inc.",,Tobacco,,
+OLN,,100, and Alliant Technologies ,,Firearms and Weapons,,
+PENN,SP500,100,"Penn National Gaming, Inc.",,Gambling,,
+PM,SP500,100,"Philip Morris International Inc. is known for its Marlboro, L&M, Chesterfield and Parliament brands. British Tobacco Company ",,Tobacco,,
+RAI,,100," is best known for its Camel, Kool and Pall Mall cigarette brands. Philip Morris International ",,Tobacco,,
+RGR,,100, is the leader for semi-automatic weapons and pistols. There are only two main ammunition manufacturers in the United States: Olin ,,Firearms and Weapons,,
+RI,,100,4. Pernod Ricard SA ,,Alcohol,,
+RICK,,100,"RCI Hospitality Holdings, Inc.",,Pornography,,
+RLX,,100,RLX Technology Inc.,,Tobacco,,
+RRR,,100,"Red Rock Resorts, Inc.",,,,
+SAM,,100,", maker of Sam Adams Beer, and Molson Coors ",,Alcohol,,
+STZ,SP500,100,2. Constellation Brands ,,Alcohol,,
+SWHC,,100, is the leading handgun producer in the United States. Sturm and Reuger Company ,,Firearms and Weapons,,
+TAP,SP500,100,Molson Coors Beverage Company are two of the remaining independent beer makers and distributors. Fortune Brands ,,Alcohol,,
+TPB,,100,"Turning Point Brands, Inc.",,Tobacco,,
+TSN,SP500,100,Tyson foods,,Pork,,
+UVV,,100,Universal Corporation,,Tobacco,,
+VBVH,,100,Bluegreen Vacations Holding Corp. (BVH),,Gambling,,
+VGR,,100,Vector Group Ltd.,,Tobacco,,
+VICI,,100,Casino properties,,Gambling,,
+WVVI,,100,7. Willamette Valley Vineyard ,,Alcohol,,
+WYNN,SP500,100,"Wynn Resorts, Limited expanded from Las Vegas to Macau. The Las Vegas Sands ",,Gambling,,
+BALY,,100,Bally's Corporation,,Resorts & Casinos,,
+BVH,,100,Bluegreen Vacations Holding Corporation,,Resorts & Casinos,,
+BYD,,100,Boyd Gaming Corporation,,Resorts & Casinos,,
+CNTY,,100,"Century Casinos, Inc.",,Resorts & Casinos,,
+CZR,SP500,100,"Caesars Entertainment, Inc.",,Resorts & Casinos,,
+FLL,,100,"Full House Resorts, Inc.",,Resorts & Casinos,,
+GDEN,,100,"Golden Entertainment, Inc.",,Resorts & Casinos,,
+HGV,,100,Hilton Grand Vacations Inc.,,Resorts & Casinos,,
+LVS,SP500,100,Las Vegas Sands Corp.,,Resorts & Casinos,,
+MCRI,,100,"Monarch Casino & Resort, Inc.",,Resorts & Casinos,,
+MGM,SP500,100,MGM Resorts International,,Resorts & Casinos,,
+MLCO,,100,Melco Resorts & Entertainment Limited,,Resorts & Casinos,,
+MSC,,100,Studio City International Holdings Limited,,Resorts & Casinos,,
+MTN,,100,"Vail Resorts, Inc.",,Resorts & Casinos,,
+PENN,SP500,100,"Penn National Gaming, Inc.",,Resorts & Casinos,,
+PLYA,,100,Playa Hotels & Resorts N.V.,,Resorts & Casinos,,
+RRR,,100,"Red Rock Resorts, Inc.",,Resorts & Casinos,,
+VAC,,100,Marriott Vacations Worldwide Corporation,,Resorts & Casinos,,
+WYNN,SP500,100,"Wynn Resorts, Limited",,Resorts & Casinos,,
+ASPS,,50,Altisource Portfolio Solutions S.A.,,Financial,Mortgage Finance,
+ATAX,,50,"America First Multifamily Investors, L.P.",,Financial,Mortgage Finance,
+CNF,,50,CNFinance Holdings Limited,,Financial,Mortgage Finance,
+COOP,,50,Mr. Cooper Group Inc.,,Financial,Mortgage Finance,
+ECPG,,50,"Encore Capital Group, Inc.",,Financial,Mortgage Finance,
+EFC,,50,Ellington Financial Inc.,,Financial,Mortgage Finance,
+ESNT,,50,Essent Group Ltd.,,Financial,Mortgage Finance,
+GHLD,,50,Guild Holdings Company,,Financial,Mortgage Finance,
+HMPT,,50,Home Point Capital Inc.,,Financial,Mortgage Finance,
+HTGC,,50,"Hercules Capital, Inc.",,Financial,Mortgage Finance,
+IMH,,50,"Impac Mortgage Holdings, Inc.",,Financial,Mortgage Finance,
+IOR,,50,"Income Opportunity Realty Investors, Inc.",,Financial,Mortgage Finance,
+LDI,,50,"loanDepot, Inc.",,Financial,Mortgage Finance,
+MRCC,,50,Monroe Capital Corporation,,Financial,Mortgage Finance,
+OCN,,50,Ocwen Financial Corporation,,Financial,Mortgage Finance,
+PFSI,,50,"PennyMac Financial Services, Inc.",,Financial,Mortgage Finance,
+RKT,,50,"Rocket Companies, Inc.",,Financial,Mortgage Finance,
+TREE,,50,"LendingTree, Inc.",,Financial,Mortgage Finance,
+UWMC,,50,UWM Holdings Corporation,,Financial,Mortgage Finance,
+VEL,,50,"Velocity Financial, Inc.",,Financial,Mortgage Finance,
+WD,,50,"Walker & Dunlop, Inc.",,Financial,Mortgage Finance,
+BAC,SP500,50,Bank of America Corporation,,Financial,Banks - Diversified,
+BBVA,,50,"Banco Bilbao Vizcaya Argentaria, S.A.",,Financial,Banks - Diversified,
+BCS,,50,Barclays PLC,,Financial,Banks - Diversified,
+BMO,,50,Bank of Montreal,,Financial,Banks - Diversified,
+BNS,,50,The Bank of Nova Scotia,,Financial,Banks - Diversified,
+C,SP500,50,Citigroup Inc.,,Financial,Banks - Diversified,
+CM,,50,Canadian Imperial Bank of Commerce,,Financial,Banks - Diversified,
+CS,,50,Credit Suisse Group AG,,Financial,Banks - Diversified,
+EWBC,,50,"East West Bancorp, Inc.",,Financial,Banks - Diversified,
+HSBC,,50,HSBC Holdings plc,,Financial,Banks - Diversified,
+ING,,50,ING Groep N.V.,,Financial,Banks - Diversified,
+JPM,SP500,50,JPMorgan Chase & Co.,,Financial,Banks - Diversified,
+MUFG,,50,"Mitsubishi UFJ Financial Group, Inc.",,Financial,Banks - Diversified,
+NTB,,50,The Bank of N.T. Butterfield & Son Limited,,Financial,Banks - Diversified,
+NU,,50,Nu Holdings Ltd.,,Financial,Banks - Diversified,
+NWG,,50,NatWest Group plc,,Financial,Banks - Diversified,
+RY,,50,Royal Bank of Canada,,Financial,Banks - Diversified,
+SAN,,50,"Banco Santander, S.A.",,Financial,Banks - Diversified,
+SMFG,,50,"Sumitomo Mitsui Financial Group, Inc.",,Financial,Banks - Diversified,
+TD,,50,The Toronto-Dominion Bank,,Financial,Banks - Diversified,
+UBS,,50,UBS Group AG,,Financial,Banks - Diversified,
+WFC,SP500,50,Wells Fargo & Company,,Financial,Banks - Diversified,
+ABCB,,50,Ameris Bancorp,,Financial,Banks - Regional,USA
+ABTX,,50,"Allegiance Bancshares, Inc.",,Financial,Banks - Regional,USA
+ACNB,,50,ACNB Corporation,,Financial,Banks - Regional,USA
+AFBI,,50,"Affinity Bancshares, Inc.",,Financial,Banks - Regional,USA
+ALRS,,50,Alerus Financial Corporation,,Financial,Banks - Regional,USA
+AMAL,,50,Amalgamated Financial Corp.,,Financial,Banks - Regional,USA
+AMNB,,50,American National Bankshares Inc.,,Financial,Banks - Regional,USA
+AMTB,,50,Amerant Bancorp Inc.,,Financial,Banks - Regional,USA
+AROW,,50,Arrow Financial Corporation,,Financial,Banks - Regional,USA
+ASB,,50,Associated Banc-Corp,,Financial,Banks - Regional,USA
+ASRV,,50,"AmeriServ Financial, Inc.",,Financial,Banks - Regional,USA
+ATLO,,50,Ames National Corporation,,Financial,Banks - Regional,USA
+AUB,,50,Atlantic Union Bankshares Corporation,,Financial,Banks - Regional,USA
+AUBN,,50,"Auburn National Bancorporation, Inc.",,Financial,Banks - Regional,USA
+AVAL,,50,Grupo Aval Acciones y Valores S.A.,,Financial,Banks - Regional,Colombia
+AX,,50,"Axos Financial, Inc.",,Financial,Banks - Regional,USA
+BANC,,50,"Banc of California, Inc.",,Financial,Banks - Regional,USA
+BANF,,50,BancFirst Corporation,,Financial,Banks - Regional,USA
+BANR,,50,Banner Corporation,,Financial,Banks - Regional,USA
+BAP,,50,Credicorp Ltd.,,Financial,Banks - Regional,Peru
+BBAR,,50,Banco BBVA Argentina S.A.,,Financial,Banks - Regional,Argentina
+BBD,,50,Banco Bradesco S.A.,,Financial,Banks - Regional,Brazil
+BCBP,,50,"BCB Bancorp, Inc.",,Financial,Banks - Regional,USA
+BCH,,50,Banco de Chile,,Financial,Banks - Regional,Chile
+BCML,,50,BayCom Corp,,Financial,Banks - Regional,USA
+BFIN,,50,BankFinancial Corporation,,Financial,Banks - Regional,USA
+BFST,,50,"Business First Bancshares, Inc.",,Financial,Banks - Regional,USA
+BHB,,50,Bar Harbor Bankshares,,Financial,Banks - Regional,USA
+BHLB,,50,"Berkshire Hills Bancorp, Inc.",,Financial,Banks - Regional,USA
+BKSC,,50,Bank of South Carolina Corporation,,Financial,Banks - Regional,USA
+BKU,,50,"BankUnited, Inc.",,Financial,Banks - Regional,USA
+BLFY,,50,Blue Foundry Bancorp,,Financial,Banks - Regional,USA
+BLX,,50,"Banco Latinoamericano de Comercio Exterior, S.A.",,Financial,Banks - Regional,Panama
+BMA,,50,Banco Macro S.A.,,Financial,Banks - Regional,Argentina
+BMRC,,50,Bank of Marin Bancorp,,Financial,Banks - Regional,USA
+BOH,,50,Bank of Hawaii Corporation,,Financial,Banks - Regional,USA
+BOKF,,50,BOK Financial Corporation,,Financial,Banks - Regional,USA
+BOTJ,,50,"Bank of the James Financial Group, Inc.",,Financial,Banks - Regional,USA
+BPOP,,50,"Popular, Inc.",,Financial,Banks - Regional,USA
+BRKL,,50,"Brookline Bancorp, Inc.",,Financial,Banks - Regional,USA
+BSAC,,50,Banco Santander-Chile,,Financial,Banks - Regional,Chile
+BSBK,,50,Bogota Financial Corp.,,Financial,Banks - Regional,USA
+BSBR,,50,Banco Santander (Brasil) S.A.,,Financial,Banks - Regional,Brazil
+BSMX,,50,Banco Santander Mexico SA ADR,,Financial,Banks - Regional,Mexico
+BSRR,,50,Sierra Bancorp,,Financial,Banks - Regional,USA
+BSVN,,50,Bank7 Corp.,,Financial,Banks - Regional,USA
+BUSE,,50,First Busey Corporation,,Financial,Banks - Regional,USA
+BWB,,50,"Bridgewater Bancshares, Inc.",,Financial,Banks - Regional,USA
+BWBBP,,50,"Bridgewater Bancshares, Inc.",,Financial,Banks - Regional,USA
+BWFG,,50,"Bankwell Financial Group, Inc.",,Financial,Banks - Regional,USA
+BY,,50,"Byline Bancorp, Inc.",,Financial,Banks - Regional,USA
+BYFC,,50,Broadway Financial Corporation,,Financial,Banks - Regional,USA
+CAC,,50,Camden National Corporation,,Financial,Banks - Regional,USA
+CADE,,50,Cadence Bank,,Financial,Banks - Regional,USA
+CARE,,50,"Carter Bankshares, Inc.",,Financial,Banks - Regional,USA
+CARV,,50,"Carver Bancorp, Inc.",,Financial,Banks - Regional,USA
+CASH,,50,"Meta Financial Group, Inc.",,Financial,Banks - Regional,USA
+CATC,,50,Cambridge Bancorp,,Financial,Banks - Regional,USA
+CATY,,50,Cathay General Bancorp,,Financial,Banks - Regional,USA
+CBAN,,50,"Colony Bankcorp, Inc.",,Financial,Banks - Regional,USA
+CBFV,,50,"CB Financial Services, Inc.",,Financial,Banks - Regional,USA
+CBNK,,50,"Capital Bancorp, Inc.",,Financial,Banks - Regional,USA
+CBSH,,50,"Commerce Bancshares, Inc.",,Financial,Banks - Regional,USA
+CBTX,,50,"CBTX, Inc.",,Financial,Banks - Regional,USA
+CBU,,50,"Community Bank System, Inc.",,Financial,Banks - Regional,USA
+CCB,,50,Coastal Financial Corporation,,Financial,Banks - Regional,USA
+CCBG,,50,"Capital City Bank Group, Inc.",,Financial,Banks - Regional,USA
+CCNE,,50,CNB Financial Corporation,,Financial,Banks - Regional,USA
+CFB,,50,"CrossFirst Bankshares, Inc.",,Financial,Banks - Regional,USA
+CFBK,,50,CF Bankshares Inc.,,Financial,Banks - Regional,USA
+CFFI,,50,C&F Financial Corporation,,Financial,Banks - Regional,USA
+CFFN,,50,"Capitol Federal Financial, Inc.",,Financial,Banks - Regional,USA
+CFG,SP500,50,"Citizens Financial Group, Inc.",,Financial,Banks - Regional,USA
+CFR,,50,"Cullen/Frost Bankers, Inc.",,Financial,Banks - Regional,USA
+CHCO,,50,City Holding Company,,Financial,Banks - Regional,USA
+CHMG,,50,Chemung Financial Corporation,,Financial,Banks - Regional,USA
+CIB,,50,Bancolombia S.A.,,Financial,Banks - Regional,Colombia
+CIVB,,50,"Civista Bancshares, Inc.",,Financial,Banks - Regional,USA
+CIZN,,50,Citizens Holding Company,,Financial,Banks - Regional,USA
+CLBK,,50,"Columbia Financial, Inc.",,Financial,Banks - Regional,USA
+CMA,SP500,50,Comerica Incorporated,,Financial,Banks - Regional,USA
+CNOB,,50,"ConnectOne Bancorp, Inc.",,Financial,Banks - Regional,USA
+COLB,,50,"Columbia Banking System, Inc.",,Financial,Banks - Regional,USA
+CPF,,50,Central Pacific Financial Corp.,,Financial,Banks - Regional,USA
+CSTR,,50,"CapStar Financial Holdings, Inc.",,Financial,Banks - Regional,USA
+CTBI,,50,"Community Trust Bancorp, Inc.",,Financial,Banks - Regional,USA
+CUBI,,50,"Customers Bancorp, Inc.",,Financial,Banks - Regional,USA
+CVBF,,50,CVB Financial Corp.,,Financial,Banks - Regional,USA
+CVCY,,50,Central Valley Community Bancorp,,Financial,Banks - Regional,USA
+CVLY,,50,"Codorus Valley Bancorp, Inc.",,Financial,Banks - Regional,USA
+CWBC,,50,Community West Bancshares,,Financial,Banks - Regional,USA
+CZNC,,50,Citizens & Northern Corporation,,Financial,Banks - Regional,USA
+CZWI,,50,"Citizens Community Bancorp, Inc.",,Financial,Banks - Regional,USA
+DB,,50,Deutsche Bank Aktiengesellschaft,,Financial,Banks - Regional,Germany
+DCOM,,50,"Dime Community Bancshares, Inc.",,Financial,Banks - Regional,USA
+EBC,,50,"Eastern Bankshares, Inc.",,Financial,Banks - Regional,USA
+EBMT,,50,"Eagle Bancorp Montana, Inc.",,Financial,Banks - Regional,USA
+EBTC,,50,"Enterprise Bancorp, Inc.",,Financial,Banks - Regional,USA
+EFSC,,50,Enterprise Financial Services Corp,,Financial,Banks - Regional,USA
+EGBN,,50,"Eagle Bancorp, Inc.",,Financial,Banks - Regional,USA
+EMCF,,50,Emclaire Financial Corp,,Financial,Banks - Regional,USA
+EQBK,,50,"Equity Bancshares, Inc.",,Financial,Banks - Regional,USA
+ESBK,,50,Elmira Savings Bank,,Financial,Banks - Regional,USA
+ESQ,,50,"Esquire Financial Holdings, Inc.",,Financial,Banks - Regional,USA
+ESSA,,50,"ESSA Bancorp, Inc.",,Financial,Banks - Regional,USA
+EVBN,,50,"Evans Bancorp, Inc.",,Financial,Banks - Regional,USA
+FBC,,50,"Flagstar Bancorp, Inc.",,Financial,Banks - Regional,USA
+FBIZ,,50,"First Business Financial Services, Inc.",,Financial,Banks - Regional,USA
+FBK,,50,FB Financial Corporation,,Financial,Banks - Regional,USA
+FBMS,,50,"The First Bancshares, Inc.",,Financial,Banks - Regional,USA
+FBNC,,50,First Bancorp,,Financial,Banks - Regional,USA
+FBP,,50,First BanCorp.,,Financial,Banks - Regional,USA
+FCAP,,50,"First Capital, Inc.",,Financial,Banks - Regional,USA
+FCBC,,50,"First Community Bankshares, Inc.",,Financial,Banks - Regional,USA
+FCCO,,50,First Community Corporation,,Financial,Banks - Regional,USA
+FCF,,50,First Commonwealth Financial Corporation,,Financial,Banks - Regional,USA
+FCNCA,,50,"First Citizens BancShares, Inc.",,Financial,Banks - Regional,USA
+FCNCO,,50,"First Citizens BancShares, Inc.",,Financial,Banks - Regional,USA
+FCNCP,,50,"First Citizens BancShares, Inc.",,Financial,Banks - Regional,USA
+FFBC,,50,First Financial Bancorp.,,Financial,Banks - Regional,USA
+FFBW,,50,"FFBW, Inc.",,Financial,Banks - Regional,USA
+FFIC,,50,Flushing Financial Corporation,,Financial,Banks - Regional,USA
+FFIN,,50,"First Financial Bankshares, Inc.",,Financial,Banks - Regional,USA
+FFNW,,50,"First Financial Northwest, Inc.",,Financial,Banks - Regional,USA
+FFWM,,50,First Foundation Inc.,,Financial,Banks - Regional,USA
+FGBI,,50,"First Guaranty Bancshares, Inc.",,Financial,Banks - Regional,USA
+FHB,,50,"First Hawaiian, Inc.",,Financial,Banks - Regional,USA
+FHN,,50,First Horizon Corporation,,Financial,Banks - Regional,USA
+FIBK,,50,"First Interstate BancSystem, Inc.",,Financial,Banks - Regional,USA
+FINW,,50,FinWise Bancorp,,Financial,Banks - Regional,USA
+FISI,,50,"Financial Institutions, Inc.",,Financial,Banks - Regional,USA
+FITB,SP500,50,Fifth Third Bancorp,,Financial,Banks - Regional,USA
+FLIC,,50,The First of Long Island Corporation,,Financial,Banks - Regional,USA
+FMAO,,50,"Farmers & Merchants Bancorp, Inc.",,Financial,Banks - Regional,USA
+FMBH,,50,"First Mid Bancshares, Inc.",,Financial,Banks - Regional,USA
+FMNB,,50,Farmers National Banc Corp.,,Financial,Banks - Regional,USA
+FNB,,50,F.N.B. Corporation,,Financial,Banks - Regional,USA
+FNCB,,50,"FNCB Bancorp, Inc.",,Financial,Banks - Regional,USA
+FNLC,,50,"The First Bancorp, Inc.",,Financial,Banks - Regional,USA
+FNWB,,50,First Northwest Bancorp,,Financial,Banks - Regional,USA
+FRBA,,50,First Bank,,Financial,Banks - Regional,USA
+FRBK,,50,"Republic First Bancorp, Inc.",,Financial,Banks - Regional,USA
+FRC,SP500,50,First Republic Bank,,Financial,Banks - Regional,USA
+FRME,,50,First Merchants Corporation,,Financial,Banks - Regional,USA
+FRST,,50,Primis Financial Corp.,,Financial,Banks - Regional,USA
+FSBW,,50,"FS Bancorp, Inc.",,Financial,Banks - Regional,USA
+FSFG,,50,"First Savings Financial Group, Inc.",,Financial,Banks - Regional,USA
+FULT,,50,Fulton Financial Corporation,,Financial,Banks - Regional,USA
+FUNC,,50,First United Corporation,,Financial,Banks - Regional,USA
+FVCB,,50,"FVCBankcorp, Inc.",,Financial,Banks - Regional,USA
+GABC,,50,"German American Bancorp, Inc.",,Financial,Banks - Regional,USA
+GBCI,,50,"Glacier Bancorp, Inc.",,Financial,Banks - Regional,USA
+GBNY,,50,"Generations Bancorp NY, Inc.",,Financial,Banks - Regional,USA
+GCBC,,50,"Greene County Bancorp, Inc.",,Financial,Banks - Regional,USA
+GGAL,,50,Grupo Financiero Galicia S.A.,,Financial,Banks - Regional,Argentina
+GLBZ,,50,Glen Burnie Bancorp,,Financial,Banks - Regional,USA
+GNTY,,50,"Guaranty Bancshares, Inc.",,Financial,Banks - Regional,USA
+GSBC,,50,"Great Southern Bancorp, Inc.",,Financial,Banks - Regional,USA
+HAFC,,50,Hanmi Financial Corporation,,Financial,Banks - Regional,USA
+HBAN,SP500,50,Huntington Bancshares Incorporated,,Financial,Banks - Regional,USA
+HBANP,,50,Huntington Bancshares Incorporated,,Financial,Banks - Regional,USA
+HBCP,,50,"Home Bancorp, Inc.",,Financial,Banks - Regional,USA
+HBNC,,50,"Horizon Bancorp, Inc.",,Financial,Banks - Regional,USA
+HBT,,50,"HBT Financial, Inc.",,Financial,Banks - Regional,USA
+HDB,,50,HDFC Bank Limited,,Financial,Banks - Regional,India
+HFBL,,50,"Home Federal Bancorp, Inc. of Louisiana",,Financial,Banks - Regional,USA
+HFWA,,50,Heritage Financial Corporation,,Financial,Banks - Regional,USA
+HIFS,,50,Hingham Institution for Savings,,Financial,Banks - Regional,USA
+HMNF,,50,"HMN Financial, Inc.",,Financial,Banks - Regional,USA
+HMST,,50,"HomeStreet, Inc.",,Financial,Banks - Regional,USA
+HOMB,,50,"Home Bancshares, Inc. (Conway, AR)",,Financial,Banks - Regional,USA
+HONE,,50,"HarborOne Bancorp, Inc.",,Financial,Banks - Regional,USA
+HOPE,,50,"Hope Bancorp, Inc.",,Financial,Banks - Regional,USA
+HTBI,,50,"HomeTrust Bancshares, Inc.",,Financial,Banks - Regional,USA
+HTBK,,50,Heritage Commerce Corp,,Financial,Banks - Regional,USA
+HTH,,50,Hilltop Holdings Inc.,,Financial,Banks - Regional,USA
+HTLF,,50,"Heartland Financial USA, Inc.",,Financial,Banks - Regional,USA
+HWBK,,50,"Hawthorn Bancshares, Inc.",,Financial,Banks - Regional,USA
+HWC,,50,Hancock Whitney Corporation,,Financial,Banks - Regional,USA
+IBCP,,50,Independent Bank Corporation,,Financial,Banks - Regional,USA
+IBN,,50,ICICI Bank Limited,,Financial,Banks - Regional,India
+IBOC,,50,International Bancshares Corporation,,Financial,Banks - Regional,USA
+IBTX,,50,"Independent Bank Group, Inc.",,Financial,Banks - Regional,USA
+IFS,,50,Intercorp Financial Services Inc.,,Financial,Banks - Regional,Peru
+INBK,,50,First Internet Bancorp,,Financial,Banks - Regional,USA
+INDB,,50,Independent Bank Corp.,,Financial,Banks - Regional,USA
+IROQ,,50,"IF Bancorp, Inc.",,Financial,Banks - Regional,USA
+ISTR,,50,Investar Holding Corporation,,Financial,Banks - Regional,USA
+ITCB,,50,Itau Corpbanca,,Financial,Banks - Regional,Chile
+ITUB,,50,Itau Unibanco Holding S.A.,,Financial,Banks - Regional,Brazil
+KB,,50,KB Financial Group Inc.,,Financial,Banks - Regional,South Korea
+KEY,SP500,50,KeyCorp,,Financial,Banks - Regional,USA
+KFFB,,50,Kentucky First Federal Bancorp,,Financial,Banks - Regional,USA
+KRNY,,50,Kearny Financial Corp.,,Financial,Banks - Regional,USA
+LARK,,50,"Landmark Bancorp, Inc.",,Financial,Banks - Regional,USA
+LBAI,,50,"Lakeland Bancorp, Inc.",,Financial,Banks - Regional,USA
+LBC,,50,Luther Burbank Corporation,,Financial,Banks - Regional,USA
+LCNB,,50,LCNB Corp.,,Financial,Banks - Regional,USA
+LKFN,,50,Lakeland Financial Corporation,,Financial,Banks - Regional,USA
+LOB,,50,"Live Oak Bancshares, Inc.",,Financial,Banks - Regional,USA
+LSBK,,50,"Lake Shore Bancorp, Inc.",,Financial,Banks - Regional,USA
+LYG,,50,Lloyds Banking Group plc,,Financial,Banks - Regional,United Kingdom
+MBIN,,50,Merchants Bancorp,,Financial,Banks - Regional,USA
+MBINN,,50,Merchants Bancorp,,Financial,Banks - Regional,USA
+MBNKP,,50,Medallion Bank,,Financial,Banks - Regional,USA
+MBWM,,50,Mercantile Bank Corporation,,Financial,Banks - Regional,USA
+MCB,,50,Metropolitan Bank Holding Corp.,,Financial,Banks - Regional,USA
+MCBC,,50,Macatawa Bank Corporation,,Financial,Banks - Regional,USA
+MCBS,,50,"MetroCity Bankshares, Inc.",,Financial,Banks - Regional,USA
+MFG,,50,"Mizuho Financial Group, Inc.",,Financial,Banks - Regional,Japan
+MGYR,,50,"Magyar Bancorp, Inc.",,Financial,Banks - Regional,USA
+MLVF,,50,"Malvern Bancorp, Inc.",,Financial,Banks - Regional,USA
+MNSB,,50,"MainStreet Bancshares, Inc.",,Financial,Banks - Regional,USA
+MOFG,,50,"MidWestOne Financial Group, Inc.",,Financial,Banks - Regional,USA
+MPB,,50,"Mid Penn Bancorp, Inc.",,Financial,Banks - Regional,USA
+MSBI,,50,"Midland States Bancorp, Inc.",,Financial,Banks - Regional,USA
+MSVB,,50,"Mid-Southern Bancorp, Inc.",,Financial,Banks - Regional,USA
+MTB,SP500,50,M&T Bank Corporation,,Financial,Banks - Regional,USA
+MVBF,,50,MVB Financial Corp.,,Financial,Banks - Regional,USA
+MYFW,,50,"First Western Financial, Inc.",,Financial,Banks - Regional,USA
+NBHC,,50,National Bank Holdings Corporation,,Financial,Banks - Regional,USA
+NBN,,50,Northeast Bank,,Financial,Banks - Regional,USA
+NBTB,,50,NBT Bancorp Inc.,,Financial,Banks - Regional,USA
+NCBS,,50,"Nicolet Bankshares, Inc.",,Financial,Banks - Regional,USA
+NECB,,50,"Northeast Community Bancorp, Inc.",,Financial,Banks - Regional,USA
+NFBK,,50,"Northfield Bancorp, Inc. (Staten Island, NY)",,Financial,Banks - Regional,USA
+NKSH,,50,"National Bankshares, Inc.",,Financial,Banks - Regional,USA
+NRIM,,50,"Northrim BanCorp, Inc.",,Financial,Banks - Regional,USA
+NWBI,,50,"Northwest Bancshares, Inc.",,Financial,Banks - Regional,USA
+NWFL,,50,Norwood Financial Corp.,,Financial,Banks - Regional,USA
+NYCB,,50,"New York Community Bancorp, Inc.",,Financial,Banks - Regional,USA
+OBNK,,50,"Origin Bancorp, Inc.",,Financial,Banks - Regional,USA
+OCFC,,50,OceanFirst Financial Corp.,,Financial,Banks - Regional,USA
+OFED,,50,Oconee Federal Financial Corp.,,Financial,Banks - Regional,USA
+OFG,,50,OFG Bancorp,,Financial,Banks - Regional,USA
+ONB,,50,Old National Bancorp,,Financial,Banks - Regional,USA
+OPBK,,50,OP Bancorp,,Financial,Banks - Regional,USA
+OPHC,,50,"OptimumBank Holdings, Inc.",,Financial,Banks - Regional,USA
+OPOF,,50,Old Point Financial Corporation,,Financial,Banks - Regional,USA
+ORRF,,50,"Orrstown Financial Services, Inc.",,Financial,Banks - Regional,USA
+OSBC,,50,"Old Second Bancorp, Inc.",,Financial,Banks - Regional,USA
+OVBC,,50,Ohio Valley Banc Corp.,,Financial,Banks - Regional,USA
+OVLY,,50,Oak Valley Bancorp,,Financial,Banks - Regional,USA
+OZK,,50,Bank OZK,,Financial,Banks - Regional,USA
+OZKAP,,50,Bank OZK,,Financial,Banks - Regional,USA
+PACW,,50,PacWest Bancorp,,Financial,Banks - Regional,USA
+PB,,50,"Prosperity Bancshares, Inc.",,Financial,Banks - Regional,USA
+PBFS,,50,"Pioneer Bancorp, Inc.",,Financial,Banks - Regional,USA
+PBHC,,50,"Pathfinder Bancorp, Inc.",,Financial,Banks - Regional,USA
+PBIP,,50,"Prudential Bancorp, Inc.",,Financial,Banks - Regional,USA
+PCB,,50,PCB Bancorp,,Financial,Banks - Regional,USA
+PCSB,,50,PCSB Financial Corporation,,Financial,Banks - Regional,USA
+PDLB,,50,"Ponce Financial Group, Inc.",,Financial,Banks - Regional,USA
+PEBK,,50,"Peoples Bancorp of North Carolina, Inc.",,Financial,Banks - Regional,USA
+PEBO,,50,Peoples Bancorp Inc.,,Financial,Banks - Regional,USA
+PFBC,,50,Preferred Bank,,Financial,Banks - Regional,USA
+PFC,,50,Premier Financial Corp.,,Financial,Banks - Regional,USA
+PFHD,,50,Professional Holding Corp.,,Financial,Banks - Regional,USA
+PFIS,,50,Peoples Financial Services Corp.,,Financial,Banks - Regional,USA
+PFS,,50,"Provident Financial Services, Inc.",,Financial,Banks - Regional,USA
+PGC,,50,Peapack-Gladstone Financial Corporation,,Financial,Banks - Regional,USA
+PKBK,,50,"Parke Bancorp, Inc.",,Financial,Banks - Regional,USA
+PLBC,,50,Plumas Bancorp,,Financial,Banks - Regional,USA
+PNBK,,50,"Patriot National Bancorp, Inc.",,Financial,Banks - Regional,USA
+PNC,SP500,50,"The PNC Financial Services Group, Inc.",,Financial,Banks - Regional,USA
+PNFP,,50,"Pinnacle Financial Partners, Inc.",,Financial,Banks - Regional,USA
+PPBI,,50,"Pacific Premier Bancorp, Inc.",,Financial,Banks - Regional,USA
+PRK,,50,Park National Corporation,,Financial,Banks - Regional,USA
+PROV,,50,"Provident Financial Holdings, Inc.",,Financial,Banks - Regional,USA
+PVBC,,50,"Provident Bancorp, Inc.",,Financial,Banks - Regional,USA
+PWOD,,50,"Penns Woods Bancorp, Inc.",,Financial,Banks - Regional,USA
+QCRH,,50,"QCR Holdings, Inc.",,Financial,Banks - Regional,USA
+RBB,,50,RBB Bancorp,,Financial,Banks - Regional,USA
+RBCAA,,50,"Republic Bancorp, Inc.",,Financial,Banks - Regional,USA
+RF,SP500,50,Regions Financial Corporation,,Financial,Banks - Regional,USA
+RMBI,,50,"Richmond Mutual Bancorporation, Inc.",,Financial,Banks - Regional,USA
+RNST,,50,Renasant Corporation,,Financial,Banks - Regional,USA
+RRBI,,50,"Red River Bancshares, Inc.",,Financial,Banks - Regional,USA
+RVSB,,50,"Riverview Bancorp, Inc.",,Financial,Banks - Regional,USA
+SAL,,50,"Salisbury Bancorp, Inc.",,Financial,Banks - Regional,USA
+SASR,,50,"Sandy Spring Bancorp, Inc.",,Financial,Banks - Regional,USA
+SBCF,,50,Seacoast Banking Corporation of Florida,,Financial,Banks - Regional,USA
+SBFG,,50,"SB Financial Group, Inc.",,Financial,Banks - Regional,USA
+SBNY,,50,Signature Bank,,Financial,Banks - Regional,USA
+SBNYP,,50,Signature Bank,,Financial,Banks - Regional,USA
+SBSI,,50,"Southside Bancshares, Inc.",,Financial,Banks - Regional,USA
+SBT,,50,"Sterling Bancorp, Inc. (Southfield, MI)",,Financial,Banks - Regional,USA
+SFBC,,50,"Sound Financial Bancorp, Inc.",,Financial,Banks - Regional,USA
+SFBS,,50,"ServisFirst Bancshares, Inc.",,Financial,Banks - Regional,USA
+SFNC,,50,Simmons First National Corporation,,Financial,Banks - Regional,USA
+SFST,,50,"Southern First Bancshares, Inc.",,Financial,Banks - Regional,USA
+SHBI,,50,"Shore Bancshares, Inc.",,Financial,Banks - Regional,USA
+SHG,,50,"Shinhan Financial Group Co., Ltd.",,Financial,Banks - Regional,South Korea
+SI,,50,Silvergate Capital Corporation,,Financial,Banks - Regional,USA
+SIVB,SP500,50,SVB Financial Group,,Financial,Banks - Regional,USA
+SMBC,,50,"Southern Missouri Bancorp, Inc.",,Financial,Banks - Regional,USA
+SMBK,,50,"SmartFinancial, Inc.",,Financial,Banks - Regional,USA
+SMMF,,50,"Summit Financial Group, Inc.",,Financial,Banks - Regional,USA
+SNV,,50,Synovus Financial Corp.,,Financial,Banks - Regional,USA
+SPFI,,50,"South Plains Financial, Inc.",,Financial,Banks - Regional,USA
+SRCE,,50,1st Source Corporation,,Financial,Banks - Regional,USA
+SSB,,50,SouthState Corporation,,Financial,Banks - Regional,USA
+SSBI,,50,Summit State Bank,,Financial,Banks - Regional,USA
+STBA,,50,"S&T Bancorp, Inc.",,Financial,Banks - Regional,USA
+SUPV,,50,Grupo Supervielle S.A.,,Financial,Banks - Regional,Argentina
+SYBT,,50,"Stock Yards Bancorp, Inc.",,Financial,Banks - Regional,USA
+TBBK,,50,"The Bancorp, Inc.",,Financial,Banks - Regional,USA
+TBK,,50,"Triumph Bancorp, Inc.",,Financial,Banks - Regional,USA
+TBNK,,50,Territorial Bancorp Inc.,,Financial,Banks - Regional,USA
+TCBI,,50,"Texas Capital Bancshares, Inc.",,Financial,Banks - Regional,USA
+TCBIO,,50,"Texas Capital Bancshares, Inc.",,Financial,Banks - Regional,USA
+TCBK,,50,TriCo Bancshares,,Financial,Banks - Regional,USA
+TCBX,,50,"Third Coast Bancshares, Inc.",,Financial,Banks - Regional,USA
+TCFC,,50,The Community Financial Corporation,,Financial,Banks - Regional,USA
+TFC,SP500,50,Truist Financial Corporation,,Financial,Banks - Regional,USA
+TFSL,,50,TFS Financial Corporation,,Financial,Banks - Regional,USA
+THFF,,50,First Financial Corporation,,Financial,Banks - Regional,USA
+TMP,,50,Tompkins Financial Corporation,,Financial,Banks - Regional,USA
+TOWN,,50,TowneBank,,Financial,Banks - Regional,USA
+TRMK,,50,Trustmark Corporation,,Financial,Banks - Regional,USA
+TRST,,50,TrustCo Bank Corp NY,,Financial,Banks - Regional,USA
+TSBK,,50,"Timberland Bancorp, Inc.",,Financial,Banks - Regional,USA
+TSC,,50,"TriState Capital Holdings, Inc.",,Financial,Banks - Regional,USA
+UBCP,,50,"United Bancorp, Inc.",,Financial,Banks - Regional,USA
+UBFO,,50,United Security Bancshares,,Financial,Banks - Regional,USA
+UBOH,,50,"United Bancshares, Inc.",,Financial,Banks - Regional,USA
+UBSI,,50,"United Bankshares, Inc.",,Financial,Banks - Regional,USA
+UCBI,,50,"United Community Banks, Inc.",,Financial,Banks - Regional,USA
+UMBF,,50,UMB Financial Corporation,,Financial,Banks - Regional,USA
+UMPQ,,50,Umpqua Holdings Corporation,,Financial,Banks - Regional,USA
+UNB,,50,"Union Bankshares, Inc.",,Financial,Banks - Regional,USA
+UNTY,,50,"Unity Bancorp, Inc.",,Financial,Banks - Regional,USA
+USB,SP500,50,U.S. Bancorp,,Financial,Banks - Regional,USA
+UVSP,,50,Univest Financial Corporation,,Financial,Banks - Regional,USA
+VBFC,,50,Village Bank and Trust Financial Corp.,,Financial,Banks - Regional,USA
+VBNK,,50,VersaBank,,Financial,Banks - Regional,Canada
+VBTX,,50,"Veritex Holdings, Inc.",,Financial,Banks - Regional,USA
+VLY,,50,Valley National Bancorp,,Financial,Banks - Regional,USA
+WABC,,50,Westamerica Bancorporation,,Financial,Banks - Regional,USA
+WAFD,,50,"Washington Federal, Inc.",,Financial,Banks - Regional,USA
+WAL,,50,Western Alliance Bancorporation,,Financial,Banks - Regional,USA
+WASH,,50,"Washington Trust Bancorp, Inc.",,Financial,Banks - Regional,USA
+WBS,,50,Webster Financial Corporation,,Financial,Banks - Regional,USA
+WF,,50,Woori Financial Group Inc.,,Financial,Banks - Regional,South Korea
+WMPN,,50,William Penn Bancorporation,,Financial,Banks - Regional,USA
+WNEB,,50,"Western New England Bancorp, Inc.",,Financial,Banks - Regional,USA
+WSBC,,50,"WesBanco, Inc.",,Financial,Banks - Regional,USA
+WSBF,,50,"Waterstone Financial, Inc.",,Financial,Banks - Regional,USA
+WSFS,,50,WSFS Financial Corporation,,Financial,Banks - Regional,USA
+WTBA,,50,"West Bancorporation, Inc.",,Financial,Banks - Regional,USA
+WTFC,,50,Wintrust Financial Corporation,,Financial,Banks - Regional,USA
+WVFC,,50,WVS Financial Corp.,,Financial,Banks - Regional,USA
+ZION,SP500,50,"Zions Bancorporation, National Association",,Financial,Banks - Regional,USA
+AAIC,,50,Arlington Asset Investment Corp.,,Real Estate,REIT - Mortgage,
+ABR,,50,"Arbor Realty Trust, Inc.",,Real Estate,REIT - Mortgage,
+ACR,,50,ACRES Commercial Realty Corp.,,Real Estate,REIT - Mortgage,
+ACRE,,50,Ares Commercial Real Estate Corporation,,Real Estate,REIT - Mortgage,
+AGNC,,50,AGNC Investment Corp.,,Real Estate,REIT - Mortgage,
+AJX,,50,Great Ajax Corp.,,Real Estate,REIT - Mortgage,
+AOMR,,50,"Angel Oak Mortgage, Inc.",,Real Estate,REIT - Mortgage,
+ARI,,50,"Apollo Commercial Real Estate Finance, Inc.",,Real Estate,REIT - Mortgage,
+ARR,,50,"ARMOUR Residential REIT, Inc.",,Real Estate,REIT - Mortgage,
+BRMK,,50,Broadmark Realty Capital Inc.,,Real Estate,REIT - Mortgage,
+BXMT,,50,"Blackstone Mortgage Trust, Inc.",,Real Estate,REIT - Mortgage,
+CHMI,,50,Cherry Hill Mortgage Investment Corporation,,Real Estate,REIT - Mortgage,
+CIM,,50,Chimera Investment Corporation,,Real Estate,REIT - Mortgage,
+CMTG,,50,"Claros Mortgage Trust, Inc.",,Real Estate,REIT - Mortgage,
+DX,,50,"Dynex Capital, Inc.",,Real Estate,REIT - Mortgage,
+EARN,,50,Ellington Residential Mortgage REIT,,Real Estate,REIT - Mortgage,
+FBRT,,50,"Franklin BSP Realty Trust, Inc.",,Real Estate,REIT - Mortgage,
+GPMT,,50,Granite Point Mortgage Trust Inc.,,Real Estate,REIT - Mortgage,
+IVR,,50,Invesco Mortgage Capital Inc.,,Real Estate,REIT - Mortgage,
+KREF,,50,KKR Real Estate Finance Trust Inc.,,Real Estate,REIT - Mortgage,
+LADR,,50,Ladder Capital Corp,,Real Estate,REIT - Mortgage,
+LFT,,50,"Lument Finance Trust, Inc.",,Real Estate,REIT - Mortgage,
+LOAN,,50,"Manhattan Bridge Capital, Inc.",,Real Estate,REIT - Mortgage,
+MFA,,50,"MFA Financial, Inc.",,Real Estate,REIT - Mortgage,
+MITT,,50,"AG Mortgage Investment Trust, Inc.",,Real Estate,REIT - Mortgage,
+NLY,,50,"Annaly Capital Management, Inc.",,Real Estate,REIT - Mortgage,
+NRZ,,50,New Residential Investment Corp.,,Real Estate,REIT - Mortgage,
+NYMT,,50,"New York Mortgage Trust, Inc.",,Real Estate,REIT - Mortgage,
+NYMTL,,50,"New York Mortgage Trust, Inc.",,Real Estate,REIT - Mortgage,
+NYMTZ,,50,"New York Mortgage Trust, Inc.",,Real Estate,REIT - Mortgage,
+ORC,,50,"Orchid Island Capital, Inc.",,Real Estate,REIT - Mortgage,
+PMT,,50,PennyMac Mortgage Investment Trust,,Real Estate,REIT - Mortgage,
+RC,,50,Ready Capital Corporation,,Real Estate,REIT - Mortgage,
+REFI,,50,"Chicago Atlantic Real Estate Finance, Inc.",,Real Estate,REIT - Mortgage,
+RWT,,50,"Redwood Trust, Inc.",,Real Estate,REIT - Mortgage,
+SACH,,50,Sachem Capital Corp.,,Real Estate,REIT - Mortgage,
+SEVN,,50,Seven Hills Realty Trust,,Real Estate,REIT - Mortgage,
+STWD,,50,"Starwood Property Trust, Inc.",,Real Estate,REIT - Mortgage,
+TRTX,,50,"TPG RE Finance Trust, Inc.",,Real Estate,REIT - Mortgage,
+TWO,,50,Two Harbors Investment Corp.,,Real Estate,REIT - Mortgage,
+WMC,,50,Western Asset Mortgage Capital Corporation,,Real Estate,REIT - Mortgage,
