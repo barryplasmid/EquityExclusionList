@@ -1,0 +1,2 @@
+# EquityExclusionList
+EquityExclusionList
