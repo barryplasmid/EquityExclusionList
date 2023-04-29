@@ -1,7 +1,7 @@
 Symbol,Index,Confidence,Company Name,Compnay Description,Category,Sub-category,Country
 ABV,,100,,,Alcohol,,
 IGT,,100,,,Gambling,,
-REMYY,,100,8. Rémy Cointreau SA,,Alcohol,,
+REMYY,,100,8. RÃ©my Cointreau SA,,Alcohol,,
 ATK,,100,". Olin manufactures and sells ammunition and powder, while Alliant Technologies manufacturers and sells powder, ammunition and reloading equipment.",,Firearms and Weapons,,
 BF,,100, owns Finlandia and Jack Daniels. Diageo ,,Alcohol,,
 BF.A,,100,3. Brown Forman Corporation ,,Alcohol,,
@@ -497,3 +497,4 @@ STWD,,50,"Starwood Property Trust, Inc.",,Real Estate,REIT - Mortgage,
 TRTX,,50,"TPG RE Finance Trust, Inc.",,Real Estate,REIT - Mortgage,
 TWO,,50,Two Harbors Investment Corp.,,Real Estate,REIT - Mortgage,
 WMC,,50,Western Asset Mortgage Capital Corporation,,Real Estate,REIT - Mortgage,
+FRC,,100,First Republic Corp., Retail Bank, Interest-base activity,Banking, USA 
